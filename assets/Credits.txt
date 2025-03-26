@@ -1,3 +1,4 @@
 Support developed by NiceGuyNate using Create mod support textures
 
-- Rail Texture, style, and support developed by SyndiShanx (Huge)
+- Rail Texture, style, and support developed by Slye_Fox (Huge)
+- Loco Metal Recolor done by Slye_Fox
